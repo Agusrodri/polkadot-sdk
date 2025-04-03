@@ -21323,6 +21323,7 @@ dependencies = [
  "frame-support",
  "frame-system",
  "hex-literal",
+ "impl-trait-for-tuples",
  "log",
  "parity-scale-codec",
  "scale-info",
